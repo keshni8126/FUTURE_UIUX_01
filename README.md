@@ -13,6 +13,10 @@ This project is a modern and user-friendly Dental Clinic website design created 
 - Contact page for appointment inquiries
 - Clean and professional interface
 
+## Figma Design
+
+[Figma Prototype](https://www.figma.com/proto/kiswHnTCLeRT5Nwi8q9lBu/dental-clinic?node-id=57-276&starting-point-node-id=57%3A276&t=8ak5WzibIn1X2g6o-1)
+
 ## Tools Used
 - Figma
 - UI/UX Design Principles
